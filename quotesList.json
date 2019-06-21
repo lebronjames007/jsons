@@ -1,16 +1,15 @@
 {
-	datas:[
-	  {
-		name: 'BTC',
-		avatar_url: 'http://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/128/Bitcoin-BTC-icon.png',
-		value:  '￥56045.32',
-		pre: '+4.41%'
-	  },
-	  {
-		name: 'LTC',
-		avatar_url: 'http://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/128/Litecoin-LTC-icon.png',
-		value:  '￥930.90',
-		pre: '+2.18%'
-	  },
+	"datas": [{
+			"name": "BTC",
+			"avatar_url": "http://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/128/Bitcoin-BTC-icon.png",
+			"value": "￥56045.32",
+			"pre": "+4.41%"
+		},
+		{
+			"name": "LTC",
+			"avatar_url": "http://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/128/Litecoin-LTC-icon.png",
+			"value": "￥930.90",
+			"pre": "+2.18%"
+		}
 	]
 }
